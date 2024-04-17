@@ -1,0 +1,4 @@
+var text = '{ "employees" : [' +
+'{ "firstName":"Щипунов" , "lastName":"Андрей" },' +
+'{ "firstName":"Щипунова" , "lastName":"Татьяна" },' +
+'{ "firstName":"Щипунова" , "lastName":"Кристина" } ]}';
